@@ -1,1 +1,2 @@
 # movie
+Reactjs + tailwindcss
